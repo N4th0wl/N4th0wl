@@ -72,6 +72,17 @@ I like figuring out why something works, and where it stops working.
   <sub>A little Owl want to get better in CTF.</sub>
 </p>
 
+<br>
+
+# Github Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=N4th0wl&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=N4th0wl&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=N4th0wl&theme=codeSTACKr&hide_border=false" alt="GitHub streak" />
+</p>
+
 <details>
 <summary>A few things I'm working toward</summary>
 
