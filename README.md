@@ -23,6 +23,8 @@ I like figuring out why something works, and where it stops working.
 
 ## My Tech Stack
 
+**Web**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,23 +32,65 @@ I like figuring out why something works, and where it stops working.
 ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Mobile**
+
 ![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/JETPACK%20COMPOSE-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Tools
+
+**Development**
+
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Apidog](https://img.shields.io/badge/APIDOG-FADF4B?style=for-the-badge&logo=apidog&logoColor=black)
+
+**Security, Reversing and Pwn**
+
 ![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/GHIDRA-B22222?style=for-the-badge&logoColor=white)
 ![IDA](https://img.shields.io/badge/IDA%20PRO-1E1E1E?style=for-the-badge&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![Apidog](https://img.shields.io/badge/APIDOG-FADF4B?style=for-the-badge&logo=apidog&logoColor=black)
+
+## Systems & Infrastructure
+
+**Operating Systems**
+
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/FEDORA-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+**Scripting**
+
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Servers and Remote Access**
+
+![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/APACHE-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-231F20?style=for-the-badge&logoColor=white)
+
+**Virtualization and Containers**
+
+![VMware](https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Oracle VirtualBox](https://img.shields.io/badge/ORACLE%20VIRTUALBOX-21416B?style=for-the-badge&logo=virtualbox&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Currently Learning
 
