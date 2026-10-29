@@ -2,14 +2,24 @@
   <img src="./assets/rooftop-midnight.svg" width="100%" alt="N4TH0WL — an animated pixel-art rooftop at midnight, with a full moon, drifting clouds, shooting stars, passing buses and cars, and an owl beside a teal vending machine under a bus-stop roof." />
 </p>
 
-# Ivander Nathanael K. / N4th0wl
+<h1 align="center">Ivander Nathanael K. <kbd>@N4th0wl</kbd></h1>
 
-CTF player and security researcher. Cloud and cybersecurity enthusiast.
-I like figuring out why something works, and where it stops working.
+<p align="center">
+  <b>CTF Player and Security Researcher. Cloud, DevOps, & Cybersecurity Enthusiast</b><br/>
+  <i>"I like figuring out why something works, and where it stops working."</i>
+</p>
 
-[Repositories](https://github.com/N4ht0wl?tab=repositories) · [Activity](https://github.com/N4th0wl?tab=overview)
-
-<br>
+<p align="center">
+  <a href="https://github.com/N4th0wl?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_Repositories-1e293b?style=for-the-badge&logoColor=white" alt="Repositories" />
+  </a>
+  <a href="https://github.com/N4th0wl?tab=overview">
+    <img src="https://img.shields.io/badge/⚡_Activity_Log-0f172a?style=for-the-badge&logoColor=38bdf8" alt="Activity" />
+  </a>
+  <a href="https://www.linkedin.com/in/ivandernathanaelkowira/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 **What I spend time on**
 
